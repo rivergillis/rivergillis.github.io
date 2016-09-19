@@ -1,19 +1,14 @@
-<!DOCTYPE html>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>River Gillis</title>
-    </head>
-    <body>
-        <h1 class="text-primary text-center">River's Stuff</h1>
-        <p>
-            At some point I'll flesh this place out and make it look nice.
-        </p>
-        <p>
-          Until then, maybe you want to read a <a href="stories.html">story?</a>
-        </p>
+---
+bg: "rails.jpg"
+layout: default
+crawlertitle: "Jekyll blog"
+title: "Voyager"
+summary: "main page"
+---
 
-        <h3><a href="comic.html"><b>NEW WEEKLY WEBCOMIC: MHCTFA</b></a></h3>
-    </body>
-</html>
+{% for post in site.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
