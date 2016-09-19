@@ -1,19 +1,14 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
+title: "About/Contact"
+crawlertitle: "Who even am I"
 permalink: /about/
-summary: "About this blog"
+summary: "help what is this place"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm River and this is my blog/place to upload personal projects/place to dump my awful stories.
+If you stumbled upon this place by chance and think I'm a pretty cool person you can reach me via my [email](mailto:jrivergillis@gmail.com), my [GitHub](https://github.com/rivergillis), or my [Twitter](https://twitter.com/rivergillis).
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+Alternatively, you can check out my resume [here](../resume.pdf).
