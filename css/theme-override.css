@@ -1,1 +1,6 @@
 footer { font-size: 90%; font-family: monospace; }
+
+body {
+  padding-left: 20px;
+  padding-right: 20px;
+}
