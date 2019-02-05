@@ -6,10 +6,20 @@
     <description>Recent content in Home on River&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 12:52:15 -0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Change for the Sake of Change</title>
+      <link>/posts/change-for-the-sake-of-change/</link>
+      <pubDate>Tue, 05 Feb 2019 12:52:15 -0600</pubDate>
+      
+      <guid>/posts/change-for-the-sake-of-change/</guid>
+      <description>Today I opened up Spotify to find this things had changed, once again. It looked like this:
+TODO: rant</description>
+    </item>
     
     <item>
       <title>Hello World</title>

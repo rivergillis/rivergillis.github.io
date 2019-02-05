@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spotify on River&#39;s Blog</title>
+    <link>/tags/spotify/</link>
+    <description>Recent content in Spotify on River&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 12:52:15 -0600</lastBuildDate>
+    
+	<atom:link href="/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Change for the Sake of Change</title>
+      <link>/posts/change-for-the-sake-of-change/</link>
+      <pubDate>Tue, 05 Feb 2019 12:52:15 -0600</pubDate>
+      
+      <guid>/posts/change-for-the-sake-of-change/</guid>
+      <description>Today I opened up Spotify to find this things had changed, once again. It looked like this:
+TODO: rant</description>
+    </item>
+    
+  </channel>
+</rss>

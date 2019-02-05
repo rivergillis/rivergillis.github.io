@@ -20,5 +20,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Spotify</title>
+      <link>/tags/spotify/</link>
+      <pubDate>Tue, 05 Feb 2019 12:52:15 -0600</pubDate>
+      
+      <guid>/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI</title>
+      <link>/tags/ui/</link>
+      <pubDate>Tue, 05 Feb 2019 12:52:15 -0600</pubDate>
+      
+      <guid>/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX</title>
+      <link>/tags/ux/</link>
+      <pubDate>Tue, 05 Feb 2019 12:52:15 -0600</pubDate>
+      
+      <guid>/tags/ux/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

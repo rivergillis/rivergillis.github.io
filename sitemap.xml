@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/change-for-the-sake-of-change/</loc>
+    <lastmod>2019-02-05T12:52:15-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/hello-world/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -20,7 +25,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-05T12:52:15-06:00</lastmod>
   </url>
   
   <url>
@@ -30,14 +35,38 @@
   </url>
   
   <url>
+    <loc>/categories/opinions/</loc>
+    <lastmod>2019-02-05T12:52:15-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-05T12:52:15-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spotify/</loc>
+    <lastmod>2019-02-05T12:52:15-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2019-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ui/</loc>
+    <lastmod>2019-02-05T12:52:15-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ux/</loc>
+    <lastmod>2019-02-05T12:52:15-06:00</lastmod>
     <priority>0</priority>
   </url>
   
