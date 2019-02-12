@@ -35,5 +35,14 @@ They can span multiple paragraphs, if you like.
  Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Sample about page.</description>
+    </item>
+    
   </channel>
 </rss>
